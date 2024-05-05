@@ -2,10 +2,13 @@
 ### Olá, tudo bem ?<br><br>Eu me chamo Lucas, sou estudante de Análise e Desenvolvimento de sistemas.<br>Eu vivo a tecnologia, para mim desenvolver códigos é gratificante.<br>Estou aqui no github para compartilhar meus projetos e códigos. <br><br>System.out.println(“Obrigado!!!”); 
 
 🙂🤓🧠🏅🏆🌞📒📓
+-------------------- 
 
-
-## 🌐 Redes Socias 
+# 🌐 Redes Socias 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/lucas.boabil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lucasboabil) 
+
+
+
 
 # 💻 Tecnologia 
 
@@ -28,4 +31,4 @@
 
 
 
-## ******************** O conhecimento trasforma nossas vidas ********************
+## ******************** O conhecimento trasformam vidas ********************
