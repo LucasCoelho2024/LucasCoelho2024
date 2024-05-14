@@ -1,8 +1,6 @@
 # 🙋‍♂️ Sobre Mim:
-### Olá, tudo bem ?<br><br>Eu me chamo Lucas, <br> sou estudante de Análise e Desenvolvimento de sistemas.<br> Futuro Desenvolvedor de software, amante de games. <br> A tecnologia vive em mim, desenvolver códigos é gratificante. <br><br>System.out.println(“Tamo Juntaçooo!!!”); 
-
-🙂🤓🧠🏅🏆🌞📒📓
--------------------- 
+### Olá, Eu me chamo Lucas, <br><br> sou estudante de Análise e Desenvolvimento de sistemas.<br> Futuro Desenvolvedor de software, amante de games. <br> A tecnologia vive em mim, desenvolver códigos é gratificante. <br><br>System.out.println(“Tamo Juntaçooo!!!”); 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🌐 Redes Socias 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/lucas.boabil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lucasboabil) 
@@ -31,4 +29,4 @@
 
 
 
-## <br><br><br><br><br><br><br><br><br><br>******************** O conhecimento trasformam vidas ********************
+## ;b
