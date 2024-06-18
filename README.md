@@ -1,9 +1,9 @@
 
 
-## <br><br><br> Olá, me chamo Lucas Coelho <br>Futuro Desenvolvedor de software <br>Apaixonado por games <br>Viva a tecnologia. <br><br><br><br>System.out.println(“Tamo Junto!!!”); 
+## <br><br><br> Olá, me chamo Lucas Coelho <br>Futuro Desenvolvedor de software <br>Apaixonado por games <br>Viva a tecnologia. <br><br><br>System.out.println(“Tamo Junto!”); 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🌐 Redes Socias 
+🌐 Redes Socias 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/lucas.boabil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lucasboabil) 
 
 
