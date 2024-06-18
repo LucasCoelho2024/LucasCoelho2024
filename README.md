@@ -1,6 +1,6 @@
 
 
-# Olá, Eu me chamo Lucas Boabil <br><br> <br> Futuro Desenvolvedor de software, amante de games. <br> Viva a tecnologia. <br><br>System.out.println(“Tamo Junto!!!”); 
+# Olá, me chamo Lucas Coelho <br> Futuro Desenvolvedor de software, amante de games. <br> Viva a tecnologia. <br><br>System.out.println(“Tamo Junto!!!”); 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🌐 Redes Socias 
