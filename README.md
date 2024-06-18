@@ -1,6 +1,6 @@
 
 
-# Olá, Eu me chamo Lucas Boabil <br><br> sou estudante de Análise e Desenvolvimento de sistemas.<br> Futuro Desenvolvedor de software, amante de games. <br> A tecnologia vive em mim, desenvolver códigos é gratificante. <br><br>System.out.println(“Tamo Juntaçooo!!!”); 
+# Olá, Eu me chamo Lucas Boabil <br><br> sou estudante de Análise e Desenvolvimento de sistemas.<br> Futuro Desenvolvedor de software, amante de games. <br> A tecnologia vive em mim, desenvolver códigos é gratificante. <br><br>System.out.println(“Tamo Junto!!!”); 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🌐 Redes Socias 
