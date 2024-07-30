@@ -1,6 +1,7 @@
 
 
-## <br><br> Olá, me chamo Lucas <br>Estudante de Análise e Desenvolvimento de Sistemas <br>Apaixonado por games  <br><br><br>System.out.println(“Tamo Junto!”); 
+## <br><br> Olá, me chamo Lucas <br>Estudante de Análise e Desenvolvimento de Sistemas <br>Apaixonado por games  <br><br><br>System.out.println(“😎🤙🏽
+🖥!”); 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🌐 
