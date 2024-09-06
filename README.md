@@ -1,6 +1,6 @@
 
 
-## <br><br> Olá, me chamo Lucas <br>Sou estudante de Análise e Desenvolvimento de Sistemas <br>Apaixonado por games!!!  <br><br><br>System.out.println(“😎🤙🏽🖥!”); 
+## <br><br> Olá, Sou o Lucas Coelho <br>Atualmente estudando análise e Desenvolvimento de Sistemas <br>Futuro programador!!!  <br><br><br>System.out.println(“😎🤙🏽🖥!”); 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🌐 
