@@ -1,4 +1,4 @@
-<h2 align="left">Olá👋, Sou o Lucas Coelho,<br>programador do Futuro!!!<br>System.out.println(“TMJ”);</h2>
+<h2 align="left">Olá👋, Sou Lucas Coelho,<br> estudante de análise e desenvolvimento de sistemas!!!<br>System.out.println(“TMJ”);</h2>
 
 ###
 
