@@ -1,6 +1,6 @@
 
 
-## <br><br> Olá, Sou o Lucas Coelho <br>Atualmente estudando análise e desenvolvimento de sistemas <br>Futuro programador!!!  <br><br><br>System.out.println(“TMJ”); 
+## <br><br> Olá, Sou o Lucas Coelho <br> <br>Futuro programador!!!  <br><br><br>System.out.println(“TMJ”); 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🌐 
